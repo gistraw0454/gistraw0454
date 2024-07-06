@@ -2,6 +2,16 @@
 
 # Hello, I'm Yujin👏
 
+# My 24SUMMER Goal 🎯
+1. SW 해커톤
+2. KnockOn Bootcamp 선발 통과
+3. DBMS 완강
+4. SQLD 자격증
+5. 리눅스 마스터 2급
+6. Java 기초
+7. C 자료구조
+8. 백준 단계별로풀어보기 16단계 까지
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgistraw0454&count_bg=%23FDC8F8CB&title_bg=%23F54D4D96&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ✨ Stack ✨
