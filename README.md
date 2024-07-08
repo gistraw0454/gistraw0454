@@ -25,10 +25,10 @@
 </div>
 
 <br />
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gistraw0454&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gistraw0454&layout=compact)](https://github.com/gistraw0454/github-readme-stats)
-
+-->
 
 ## My 24SUMMER Goal 🎯
 
