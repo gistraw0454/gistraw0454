@@ -57,7 +57,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gistraw0454/gistraw0454/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gistraw0454/gistraw0454/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
