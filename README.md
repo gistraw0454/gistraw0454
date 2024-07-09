@@ -57,7 +57,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gistraw0454/gistraw0454/output/github-snake.svg" alt="Snake animation" />
+<img src="https://github.com/gistraw0454/gistraw0454/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
