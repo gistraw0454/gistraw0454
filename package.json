@@ -1,14 +1,11 @@
 {
-  "main": "readmeUpdate.js",
-  "type": "module",
-  "scripts": {
-    "start": "node readmeUpdate.js"
-  },
   "name": "gistraw0454",
   "version": "1.0.0",
   "description": "<h2 align=\"left\">Hi 👋! My name is Yujin.</h2>",
-  "main": "index.js",
+  "main": "readmeUpdate.js",
+  "type": "module",
   "scripts": {
+    "start": "node readmeUpdate.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,3 +23,4 @@
     "rss-parser": "^3.13.0"
   }
 }
+
