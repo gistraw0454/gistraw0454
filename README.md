@@ -75,6 +75,5 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
-<a href="https://tistraw0454.tistory.com/2">ㅇㅁㅈㅇㅁㄴㅇ</a><br>
 <a href="https://tistraw0454.tistory.com/1">[1주차 TIL] KnockOn Bootcamp 헤더파일</a><br>
 </div>
