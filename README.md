@@ -70,3 +70,10 @@
 
 
 ###
+
+## 📕 Latest Blog Posts
+
+<!-- RSS Feed will be inserted here -->
+<div id="rss-feed">
+  <!-- The RSS feed items will be dynamically inserted here by the script -->
+</div>
