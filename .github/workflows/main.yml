@@ -23,7 +23,6 @@ jobs:
       - name: Update README
         run: npm start
 
-
       - name: Commit and push README
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
@@ -31,5 +30,10 @@ jobs:
           git config --local user.email "nastraw0454@naver.com"
           git config --local user.name "gistraw0454"
           git add README.md
-          git commit -m "Update README.md"
-          git push https://gistraw0454:${GITHUB_TOKEN}@github.com/gistraw0454/gistraw0454.git
+          if ! git diff --cached --quiet; then
+            git commit -m "Update README.md"
+            git push https://gistraw0454:${GITHUB_TOKEN}@github.com/gistraw0454/gistraw0454.git
+          else
+            echo "No changes to commit"
+          fi
+
