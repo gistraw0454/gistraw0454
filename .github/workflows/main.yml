@@ -32,6 +32,8 @@ jobs:
           git config --local user.name "gistraw0454"
           git add README.md
           if ! git diff --cached --quiet; then
+            npm start
+            git add README.md
             git commit -m "Update README.md"
             git push https://gistraw0454:${GITHUB_TOKEN}@github.com/gistraw0454/gistraw0454.git
           else
