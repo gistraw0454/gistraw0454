@@ -75,10 +75,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/19">[실전 알고리즘] 0x04강 - 연결리스트</a><br>
 <a href="https://tistraw0454.tistory.com/18">[3주차 TIL] KnockOn Bootcamp 아키텍쳐</a><br>
 <a href="https://tistraw0454.tistory.com/17">[2,3주차 TIL] KnockOn Bootcamp 프로젝트 만들기</a><br>
 <a href="https://tistraw0454.tistory.com/16">[실전 알고리즘] 0x03강 - 배열</a><br>
 <a href="https://tistraw0454.tistory.com/15">[실전 알고리즘] 0x02강 - 기초 코드 작성 요령 II</a><br>
-<a href="https://tistraw0454.tistory.com/14">[실전 알고리즘] 0x01강 - 기초 코드 작성 요령 I</a><br>
 </div>
 
