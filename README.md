@@ -75,10 +75,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/21">[3주차 TIL] KnockOn Bootcamp 링커와 로더</a><br>
 <a href="https://tistraw0454.tistory.com/20">[3주차 TIL] KnockOn Bootcamp 컴파일러</a><br>
 <a href="https://tistraw0454.tistory.com/19">[실전 알고리즘] 0x04강 - 연결리스트</a><br>
 <a href="https://tistraw0454.tistory.com/18">[3주차 TIL] KnockOn Bootcamp 아키텍쳐</a><br>
 <a href="https://tistraw0454.tistory.com/17">[2,3주차 TIL] KnockOn Bootcamp 프로젝트 만들기</a><br>
-<a href="https://tistraw0454.tistory.com/16">[실전 알고리즘] 0x03강 - 배열</a><br>
 </div>
 
