@@ -75,10 +75,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/30">2강 자바 언어의 구성 : Hello Java</a><br>
+<a href="https://tistraw0454.tistory.com/29">1강 개발 환경설정 : JAVA JDK 및 개발 툴 설치</a><br>
 <a href="https://tistraw0454.tistory.com/28">KnockOn Bootcamp Handray</a><br>
 <a href="https://tistraw0454.tistory.com/27">KnockOn Bootcamp Basic-asm</a><br>
 <a href="https://tistraw0454.tistory.com/26">[3주차 TIL] KnockOn Bootcamp ELF 파일 구조</a><br>
-<a href="https://tistraw0454.tistory.com/25">[실전 알고리즘] 0x07강 - 덱</a><br>
-<a href="https://tistraw0454.tistory.com/24">[실전 알고리즘] 0x06강 - 큐</a><br>
 </div>
 
