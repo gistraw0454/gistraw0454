@@ -75,10 +75,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/35">6-11강 제어문</a><br>
 <a href="https://tistraw0454.tistory.com/34">5강 연산자</a><br>
 <a href="https://tistraw0454.tistory.com/32">4강 형변환</a><br>
 <a href="https://tistraw0454.tistory.com/31">3강 변수와 자료형</a><br>
 <a href="https://tistraw0454.tistory.com/30">2강 자바 언어의 구성 : Hello Java</a><br>
-<a href="https://tistraw0454.tistory.com/29">1강 개발 환경설정 : JAVA JDK 및 개발 툴 설치</a><br>
 </div>
 
