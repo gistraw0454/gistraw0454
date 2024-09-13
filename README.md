@@ -76,9 +76,9 @@
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
 <a href="https://tistraw0454.tistory.com/37">54회 SQLD 합격후기</a><br>
-<a href="https://tistraw0454.tistory.com/36">KnockOn Bootcamp Rev-basic</a><br>
 <a href="https://tistraw0454.tistory.com/35">6-11강 제어문</a><br>
 <a href="https://tistraw0454.tistory.com/34">5강 연산자</a><br>
 <a href="https://tistraw0454.tistory.com/32">4강 형변환</a><br>
+<a href="https://tistraw0454.tistory.com/31">3강 변수와 자료형</a><br>
 </div>
 
