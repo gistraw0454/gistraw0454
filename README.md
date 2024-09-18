@@ -75,10 +75,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
-<a href="https://tistraw0454.tistory.com/46">KnockOn Bootcamp ROP</a><br>
-<a href="https://tistraw0454.tistory.com/45">KnockOn Bootcamp memory mitigation bypass</a><br>
-<a href="https://tistraw0454.tistory.com/44">KnockOn Bootcamp memory mitigation</a><br>
 <a href="https://tistraw0454.tistory.com/40">리버싱 핵심 원리 1장</a><br>
 <a href="https://tistraw0454.tistory.com/37">54회 SQLD 합격후기</a><br>
+<a href="https://tistraw0454.tistory.com/35">6-11강 제어문</a><br>
+<a href="https://tistraw0454.tistory.com/34">5강 연산자</a><br>
+<a href="https://tistraw0454.tistory.com/32">4강 형변환</a><br>
 </div>
 
