@@ -75,10 +75,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/43">KnockOn Bootcamp bof</a><br>
 <a href="https://tistraw0454.tistory.com/42">KnockOn Bootcamp pwntools</a><br>
 <a href="https://tistraw0454.tistory.com/41">KnockOn Bootcamp OS_Command_Injection</a><br>
 <a href="https://tistraw0454.tistory.com/40">리버싱 핵심 원리 1장</a><br>
 <a href="https://tistraw0454.tistory.com/37">54회 SQLD 합격후기</a><br>
-<a href="https://tistraw0454.tistory.com/35">6-11강 제어문</a><br>
 </div>
 
