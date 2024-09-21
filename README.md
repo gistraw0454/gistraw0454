@@ -59,11 +59,6 @@
 
 <img src="https://github.com/gistraw0454/gistraw0454/blob/output/snake.svg" alt="Snake animation" />
 
-
-###
-
-<h3 align="left">My 24SUMMER Goal 🎯</h3>
-
 ###
 
 ## 📕 Latest Blog Posts
