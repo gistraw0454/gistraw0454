@@ -66,11 +66,6 @@
 
 ###
 
-<h4 align="left">🎨 PNU SW 해커톤 [✓]<br>🚀 KnockOn Bootcamp [✓]<br>📚 DBMS 완강 [✓]<br>📜 SQLD 자격증 [✓]<br>☕ Java 기초 [ ]<br>📂 C/C++ 자료구조 [ ]<br>🐍 C언어/Python 복습하기 [✓]<br>🔒 보안 관련 도서 1회독 [✓]<br></h4>
-
-
-### 
-
 ## 📕 Latest Blog Posts
 
 <!-- RSS Feed will be inserted here -->
