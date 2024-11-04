@@ -65,10 +65,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/50">리버싱 핵심원리 21장 ~ 23장</a><br>
 <a href="https://tistraw0454.tistory.com/49">리버싱 핵심원리 20장</a><br>
 <a href="https://tistraw0454.tistory.com/48">리버싱 핵심원리 16장</a><br>
 <a href="https://tistraw0454.tistory.com/47">리버싱 핵심원리 2부</a><br>
 <a href="https://tistraw0454.tistory.com/40">리버싱 핵심 원리 1장</a><br>
-<a href="https://tistraw0454.tistory.com/37">54회 SQLD 합격후기</a><br>
 </div>
 
