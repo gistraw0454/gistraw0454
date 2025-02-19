@@ -65,7 +65,7 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
-<a href="https://tistraw0454.tistory.com/52">PWN Dreamhack 윈도우 환경 구축</a><br>
+<a href="https://tistraw0454.tistory.com/52">[PWN Dreamhack] 윈도우 환경 구축와 우분투 각종 플러그인 설치</a><br>
 <a href="https://tistraw0454.tistory.com/50">리버싱 핵심원리 21장 ~ 23장</a><br>
 <a href="https://tistraw0454.tistory.com/49">리버싱 핵심원리 20장</a><br>
 <a href="https://tistraw0454.tistory.com/48">리버싱 핵심원리 16장</a><br>
