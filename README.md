@@ -65,10 +65,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/56">[PWN Dreamhack] Stack Canary</a><br>
 <a href="https://tistraw0454.tistory.com/55">[PWN Dreamhack] BOF</a><br>
 <a href="https://tistraw0454.tistory.com/54">[PWN Dreamhack] pwntools &amp; Shellcode</a><br>
 <a href="https://tistraw0454.tistory.com/53">[PWN Dreamhack] 컴퓨터과학 배경지식</a><br>
 <a href="https://tistraw0454.tistory.com/52">[PWN Dreamhack] 윈도우 환경 구축과 우분투 각종 플러그인 설치</a><br>
-<a href="https://tistraw0454.tistory.com/50">리버싱 핵심원리 21장 ~ 23장</a><br>
 </div>
 
