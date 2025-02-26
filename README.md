@@ -65,10 +65,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/58">ROP 완벽 이해와 추가 예제 풀이</a><br>
 <a href="https://tistraw0454.tistory.com/57">[PWN Dreamhack] RTL, ROP</a><br>
 <a href="https://tistraw0454.tistory.com/56">[PWN Dreamhack] Stack Canary</a><br>
 <a href="https://tistraw0454.tistory.com/55">[PWN Dreamhack] BOF</a><br>
 <a href="https://tistraw0454.tistory.com/54">[PWN Dreamhack] pwntools &amp; Shellcode</a><br>
-<a href="https://tistraw0454.tistory.com/53">[PWN Dreamhack] 컴퓨터과학 배경지식</a><br>
 </div>
 
