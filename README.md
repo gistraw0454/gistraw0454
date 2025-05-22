@@ -65,10 +65,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/67">[how2heap] overlapping_chunks</a><br>
 <a href="https://tistraw0454.tistory.com/66">_rtld_global._dl_rtld_lock_recursive 는 어디에 있냐.</a><br>
 <a href="https://tistraw0454.tistory.com/65">CTF 문제풀이에서 Dockerfile 활용법</a><br>
 <a href="https://tistraw0454.tistory.com/64">[PWN Dreamhack] PIE &amp; RELRO</a><br>
 <a href="https://tistraw0454.tistory.com/63">[WHS] 컴퓨터구조I</a><br>
-<a href="https://tistraw0454.tistory.com/62">[WHS] 프로그래밍 기초(C)</a><br>
 </div>
 
