@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Yujin.</h2>
-### 🎯 2025 Summer Goals
+
+<h2 align="left">🎯 2025 Summer Goals</h2>
 
 - [ ] WHS 1-day 취약점 분석 프로젝트 완료
 - [ ] 매일 백준 or 프로그래머스 문제 풀기
