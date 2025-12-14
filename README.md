@@ -1,17 +1,14 @@
 <h2 align="left">Hi 👋! My name is Yujin.</h2>
 
-<h2 align="left">🎯 2025 Summer Goals</h2>
+<h2 align="left">🎯 2025 Goals</h2>
 
-- [ ] WHS 1-day 취약점 분석 프로젝트 완료
-- [ ] 매일 백준 or 프로그래머스 문제 풀기
-- [ ] 매일 Dreamhack Wargame 문제 하나 이상 풀기
-- [ ] 『리버싱 핵심원리』 완독
+- [ ] .
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gistraw0454&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gistraw0454&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=gistraw0454&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gistraw0454&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gistraw0454&theme=dracula&hide_border=false&area=false" height="150" alt="activity-graph graph"  />
 </div>
