@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Yujin.</h2>
 
-<h2 align="left">🎯 2025 Goals</h2>
+<h2 align="left">🎯 2026 Goals</h2>
 
 - [ ] .
 
