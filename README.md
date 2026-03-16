@@ -69,10 +69,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/70">VMware Workstation Windows Kernel Debug Setting (direct, VirtualKD)</a><br>
 <a href="https://tistraw0454.tistory.com/69">[how2heap] tcache poisoning</a><br>
 <a href="https://tistraw0454.tistory.com/67">[how2heap] overlapping_chunks</a><br>
 <a href="https://tistraw0454.tistory.com/64">[PWN Dreamhack] PIE &amp; RELRO</a><br>
 <a href="https://tistraw0454.tistory.com/63">[WHS] 컴퓨터구조I</a><br>
-<a href="https://tistraw0454.tistory.com/62">[WHS] 프로그래밍 기초(C)</a><br>
 </div>
 
