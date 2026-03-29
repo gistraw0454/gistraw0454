@@ -69,10 +69,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
-<a href="https://tistraw0454.tistory.com/81">WhiteHat School 3기 TOP20 우수 수료 후기</a><br>
 <a href="https://tistraw0454.tistory.com/80">[Tier0] Synced (rsync)</a><br>
 <a href="https://tistraw0454.tistory.com/79">[Tier0] Mongod (MongoDB)</a><br>
 <a href="https://tistraw0454.tistory.com/78">[Tier0] Preignition (gobuster)</a><br>
 <a href="https://tistraw0454.tistory.com/77">[Tier0] Explosion (rdp)</a><br>
+<a href="https://tistraw0454.tistory.com/76">[Tier0] Redeemer (redis)</a><br>
 </div>
 
