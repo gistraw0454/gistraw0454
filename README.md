@@ -69,10 +69,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
-<a href="https://tistraw0454.tistory.com/84">[Tier1] Crocodile (gobuster)</a><br>
-<a href="https://tistraw0454.tistory.com/83">[Tier1] Sequel (MariaDB)</a><br>
-<a href="https://tistraw0454.tistory.com/82">[Tier1] Appointment (SQLi)</a><br>
-<a href="https://tistraw0454.tistory.com/80">[Tier0] Synced (rsync)</a><br>
-<a href="https://tistraw0454.tistory.com/79">[Tier0] Mongod (MongoDB)</a><br>
+<a href="https://tistraw0454.tistory.com/92">[Tier1] Tactics (nmap -Pn option)</a><br>
+<a href="https://tistraw0454.tistory.com/91">[Tier1] Pennyworth (Jenkins)</a><br>
+<a href="https://tistraw0454.tistory.com/90">[Tier1] Bike (SSTI)</a><br>
+<a href="https://tistraw0454.tistory.com/89">[Tier1] Funnel (tunneling, postgresql)</a><br>
+<a href="https://tistraw0454.tistory.com/87">[Tier1] Ignition (Most common passwords)</a><br>
 </div>
 
