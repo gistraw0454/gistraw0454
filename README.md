@@ -69,10 +69,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/95">[Tier2] Vaccine (John The Ripper for zip, sqlmap, sudo -l, vi's bash)</a><br>
+<a href="https://tistraw0454.tistory.com/94">[Tier2] Oopsie (setuid, burp suite, reverse shell)</a><br>
+<a href="https://tistraw0454.tistory.com/93">[Tier2] Archetype (WinPEAS, MSSQL, xp_cmdshell, reverse shell)</a><br>
 <a href="https://tistraw0454.tistory.com/92">[Tier1] Tactics (nmap -Pn option)</a><br>
 <a href="https://tistraw0454.tistory.com/91">[Tier1] Pennyworth (Jenkins)</a><br>
-<a href="https://tistraw0454.tistory.com/90">[Tier1] Bike (SSTI)</a><br>
-<a href="https://tistraw0454.tistory.com/89">[Tier1] Funnel (tunneling, postgresql)</a><br>
-<a href="https://tistraw0454.tistory.com/87">[Tier1] Ignition (Most common passwords)</a><br>
 </div>
 
