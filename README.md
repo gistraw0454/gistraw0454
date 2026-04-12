@@ -69,10 +69,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
-<a href="https://tistraw0454.tistory.com/95">[Tier2] Vaccine (John The Ripper for zip, sqlmap, sudo -l, vi's bash)</a><br>
-<a href="https://tistraw0454.tistory.com/94">[Tier2] Oopsie (setuid, burp suite, reverse shell)</a><br>
-<a href="https://tistraw0454.tistory.com/93">[Tier2] Archetype (WinPEAS, MSSQL, xp_cmdshell, reverse shell)</a><br>
-<a href="https://tistraw0454.tistory.com/92">[Tier1] Tactics (nmap -Pn option)</a><br>
-<a href="https://tistraw0454.tistory.com/91">[Tier1] Pennyworth (Jenkins)</a><br>
+<a href="https://tistraw0454.tistory.com/100">[Machines] Nocturnal (CVE-2023-46818, ffuf, command injection, hashcat)</a><br>
+<a href="https://tistraw0454.tistory.com/99">[Tier2] Base (strcmp bypass use [] , find --exec)</a><br>
+<a href="https://tistraw0454.tistory.com/98">[Tier2] Markup (XXE, ssh private key, icacls 권한 확인 in windows)</a><br>
+<a href="https://tistraw0454.tistory.com/97">[Tier2] Included (nmap -sU, tftp, LXD exploit)</a><br>
+<a href="https://tistraw0454.tistory.com/96">[Tier2] Unified (CVE-2021-44228, openssl sha-512 hash)</a><br>
 </div>
 
