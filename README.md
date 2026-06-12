@@ -70,9 +70,9 @@
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
 <a href="https://tistraw0454.tistory.com/102">2장 고전 암호 (Shift, Monoalphabetic Substitution, Multiple-Letter Encryption, Polyalphabetic, Transposition)</a><br>
-<a href="https://tistraw0454.tistory.com/101">1장 정보보안 소개 (CIA)</a><br>
 <a href="https://tistraw0454.tistory.com/71">Double Free Bug &amp; Use After Free</a><br>
 <a href="https://tistraw0454.tistory.com/70">VMware Workstation Windows Kernel Debug Setting (direct, VirtualKD)</a><br>
 <a href="https://tistraw0454.tistory.com/69">[how2heap] tcache poisoning</a><br>
+<a href="https://tistraw0454.tistory.com/67">[how2heap] overlapping_chunks</a><br>
 </div>
 
