@@ -69,10 +69,10 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
+<a href="https://tistraw0454.tistory.com/115">IDA MCP 환경 구축 및 사용법</a><br>
 <a href="https://tistraw0454.tistory.com/113">Windows11 WSL 환경 구축 및 터미널꾸미기(ubuntu-24.04 , oh-my-zsh)</a><br>
 <a href="https://tistraw0454.tistory.com/102">2장 고전 암호 (Shift, Monoalphabetic Substitution, Multiple-Letter Encryption, Polyalphabetic, Transposition)</a><br>
 <a href="https://tistraw0454.tistory.com/72">CVE-2024-35250 Windows Kernel Streaming Driver LPE 1-Day Analysis</a><br>
 <a href="https://tistraw0454.tistory.com/71">Double Free Bug &amp; Use After Free</a><br>
-<a href="https://tistraw0454.tistory.com/70">VMware Workstation Windows Kernel Debug Setting (direct, VirtualKD)</a><br>
 </div>
 
