@@ -69,7 +69,7 @@
 
 <!-- RSS Feed will be inserted here -->
 <div id="rss-feed">
-<a href="https://tistraw0454.tistory.com/120">UAF (Use-After-Free)</a><br>
+<a href="https://tistraw0454.tistory.com/120">Use-After-Free (UAF)</a><br>
 <a href="https://tistraw0454.tistory.com/118">__environ</a><br>
 <a href="https://tistraw0454.tistory.com/116">SigReturn-Oriented Programming (SROP)</a><br>
 <a href="https://tistraw0454.tistory.com/115">IDA MCP 환경 구축 및 사용법</a><br>
